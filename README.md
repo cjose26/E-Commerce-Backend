@@ -27,11 +27,14 @@ Or
 
 ## Usage
 
-With the dependecies installed rune the following commad to start the application and go to the port
+With the dependecies installed run the following commands to start the application in the following order:
 
 > mysql -u root -p
+> <br>
 > source db/schema.sql
+> <br>
 > quit
+> <br>
 > npm run seed
 
 You will see a message in the terminal indicating that the serer is up and running
@@ -39,7 +42,9 @@ You will see a message in the terminal indicating that the serer is up and runni
 ## Video
 
 <a href="https://drive.google.com/file/d/1qRS1qoOJf84YW04zDFQPAfeDjrLjWTUi/view">Demo Video of Category Route</a>
+<br>
 <a href="https://drive.google.com/file/d/1aP5Lmvak5RjvcKXFZ0HdJZaz0jgDpcHN/view">Demo Video of Product Route</a>
+<br>
 <a href="https://drive.google.com/file/d/1aP5Lmvak5RjvcKXFZ0HdJZaz0jgDpcHN/view">Demo Video of Tags Route</a>
 
 ## License
