@@ -1,4 +1,4 @@
-# 13 Object-Relational Mapping (ORM): E-Commerce Back End
+# E-Commerce Back End
 
 A back-end server created for an E-Commerce website. This application used Express.js API and Sequelize to interact with a MySQL database. This application demonstrates the API Routes to perform RESTful CRUD operations shown in the 3 walk thorugh videos below.
 
@@ -45,7 +45,7 @@ You will see a message in the terminal indicating that the serer is up and runni
 <br>
 <a href="https://drive.google.com/file/d/1aP5Lmvak5RjvcKXFZ0HdJZaz0jgDpcHN/view">Demo Video of Product Route</a>
 <br>
-<a href="https://drive.google.com/file/d/1aP5Lmvak5RjvcKXFZ0HdJZaz0jgDpcHN/view">Demo Video of Tags Route</a>
+<a href="https://drive.google.com/file/d/1VA-p14ZD-7l7PWsq2h1oE7udlsiPq9AN/view">Demo Video of Tags Route</a>
 
 ## License
 
